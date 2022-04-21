@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thefloadbeard.github.io" resolutions="1x" timestamp="1650531531463">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thefloadbeard.github.io" resolutions="1x" timestamp="1650534630879">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="438026328" ref="index"/>
+    <file name="index.css" crc="414997720" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,9 +12,9 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="cody.jpg" crc="3931801018" ref="index">
+    <file name="me_cody.png" crc="3887896182" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3886706638" seo="true" mt="1650531445170" redirect="false"/>
+  <file name="index.html" crc="429221318" seo="true" mt="1650534610632" redirect="true"/>
 </manifest>

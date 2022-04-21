@@ -5,5 +5,8 @@
     <lastmod>2022-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thefloadbeard.github.io/images/me_cody.png</image:loc>
+    </image:image>
   </url>
 </urlset>
